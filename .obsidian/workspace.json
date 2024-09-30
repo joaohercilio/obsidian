@@ -4,15 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "62956fb0331430d0",
+        "id": "73abd85a96eda771",
         "type": "tabs",
         "children": [
           {
-            "id": "65c6bff88dba68de",
+            "id": "90d3b2d7c96d83a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Estruturas Aeroespaciais/Lista de exercícios 02.pdf"
+              }
+            }
+          },
+          {
+            "id": "9ebc97df68e77092",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Estruturas Aeroespaciais/Lista de exercícios 02.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d00764746a13f020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16b7abb3093743ce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Estruturas Aeroespaciais/Niu_Estruturas.pdf"
+              }
             }
           }
         ]
@@ -65,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d65e31cbb62b5b92",
@@ -81,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos da Combustão/Pasted image 20240924140632.png",
+                "file": "Primeira Prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos da Combustão/Pasted image 20240924140632.png",
+                "file": "Primeira Prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos da Combustão/Pasted image 20240924140632.png"
+                "file": "Primeira Prova.md"
               }
             }
           }
@@ -142,12 +172,67 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171ff77294b02864",
+  "floating": {
+    "id": "ac4138aa6d3f7aaf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8b99d44537d4a0fb",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb1a062574492658",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "88dcbbbeceb728cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Primeira Prova.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 52,
+        "width": 1258,
+        "height": 1368,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "88dcbbbeceb728cf",
   "lastOpenFiles": [
-    "Fundamentos da Combustão/2 - Combustão e Termoquímica.md",
-    "Fundamentos da Combustão/asted image 20240924140632 1.png",
-    "Fundamentos da Combustão/2 - Combustão e Termoquímica.pdf",
-    "Fundamentos da Combustão/2 - Combustão e Termoquímica_tmp.html",
-    "Fundamentos da Combustão/Pasted image 20240924140632.png"
+    "Estruturas Aeroespaciais/Niu_Estruturas.pdf",
+    "Primeira Prova.md",
+    "Estruturas Aeroespaciais/Lista de exercícios 02.pdf",
+    "Estruturas Aeroespaciais/07602_EMB5401_20242.pdf",
+    "Estruturas Aeroespaciais/Megson_Estruturas.pdf",
+    "Pasted image 20240929171227.png",
+    "Pasted image 20240929171150.png",
+    "Pasted image 20240929171005.png",
+    "Pasted image 20240929170944.png",
+    "Pasted image 20240929170928.png",
+    "Pasted image 20240929170907.png",
+    "Pasted image 20240929170854.png",
+    "Pasted image 20240929170847.png",
+    "Pasted image 20240929170751.png",
+    "Pasted image 20240929170733.png",
+    "Elementos de Máquinas/problemas_engrenagens.pdf",
+    "Elementos de Máquinas/Apostila.pdf",
+    "Elementos de Máquinas/Norton.pdf",
+    "Elementos de Máquinas/Engrenagens.md",
+    "Elementos de Máquinas/img",
+    "Elementos de Máquinas",
+    "Máquinas",
+    "Fundamentos da Combustão/2 - Combustão e Termoquímica.md"
   ]
 }
