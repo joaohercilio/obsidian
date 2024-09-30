@@ -38,9 +38,9 @@
             "id": "16b7abb3093743ce",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Estruturas Aeroespaciais/Niu_Estruturas.pdf"
+                "file": "Estruturas Aeroespaciais/Pics/Pasted image 20240929154339.png"
               }
             }
           }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d65e31cbb62b5b92",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primeira Prova.md",
+                "file": "Estruturas Aeroespaciais/Pics/Pasted image 20240929154339.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primeira Prova.md",
+                "file": "Estruturas Aeroespaciais/Pics/Pasted image 20240929154339.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primeira Prova.md"
+                "file": "Estruturas Aeroespaciais/Pics/Pasted image 20240929154339.png"
               }
             }
           }
@@ -190,7 +189,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Primeira Prova.md",
+                    "file": "Estruturas Aeroespaciais/Primeira Prova.md",
                     "mode": "source",
                     "source": false
                   }
@@ -209,23 +208,24 @@
       }
     ]
   },
-  "active": "88dcbbbeceb728cf",
+  "active": "171ff77294b02864",
   "lastOpenFiles": [
+    "Estruturas Aeroespaciais/Pics",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929154851.png",
     "Estruturas Aeroespaciais/Niu_Estruturas.pdf",
-    "Primeira Prova.md",
+    "Estruturas Aeroespaciais/Primeira Prova.md",
     "Estruturas Aeroespaciais/Lista de exercícios 02.pdf",
     "Estruturas Aeroespaciais/07602_EMB5401_20242.pdf",
     "Estruturas Aeroespaciais/Megson_Estruturas.pdf",
-    "Pasted image 20240929171227.png",
-    "Pasted image 20240929171150.png",
-    "Pasted image 20240929171005.png",
-    "Pasted image 20240929170944.png",
-    "Pasted image 20240929170928.png",
-    "Pasted image 20240929170907.png",
-    "Pasted image 20240929170854.png",
-    "Pasted image 20240929170847.png",
-    "Pasted image 20240929170751.png",
-    "Pasted image 20240929170733.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929171227.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929171150.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929171005.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170944.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170928.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170907.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170854.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170847.png",
+    "Estruturas Aeroespaciais/Pics/Pasted image 20240929170751.png",
     "Elementos de Máquinas/problemas_engrenagens.pdf",
     "Elementos de Máquinas/Apostila.pdf",
     "Elementos de Máquinas/Norton.pdf",
