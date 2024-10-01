@@ -54,9 +54,11 @@ Podemos utilizar reforços ao longo do comprimento, dividindo a placa em pequena
 
 ### Tensão diagonal completa
 
+
 ![[Pasted image 20240929170334.png]]
 ![[Pasted image 20240929170854.png]]
 ![[Pasted image 20240929170907.png]]
+
 
 ![[Pasted image 20240929170751.png]]
 ![[Pasted image 20240929170928.png]]
@@ -66,8 +68,10 @@ Podemos utilizar reforços ao longo do comprimento, dividindo a placa em pequena
 ![[Pasted image 20240929170733.png]]
 ![[Pasted image 20240929171005.png]]
 
+
 A carga compressiva P no reforço é
 ![[Pasted image 20240929171150.png]]
+
 
 Se a carga P é alta, os reforços flambam como colunas de comprimento equivalente 
 ![[Pasted image 20240929171227.png]]
