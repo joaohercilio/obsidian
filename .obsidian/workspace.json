@@ -4,122 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "fcf6daeeb30ebf15",
+        "id": "acd1baec0c257430",
         "type": "tabs",
         "children": [
           {
-            "id": "166776c71d15bdc0",
+            "id": "223849eb81098c06",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/1.jpeg"
+                "file": "Aerodinâmica/John D. Anderson, Jr., Christopher P. Cadou - Fundamentals of Aerodynamics-McGraw Hill (2023).pdf"
               }
             }
           },
           {
-            "id": "b370f6240980a182",
+            "id": "4bec534f42813d2f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/2.jpeg"
+                "file": "Aerodinâmica/Houghton.pdf"
               }
             }
           },
           {
-            "id": "32cc746853be6d1e",
+            "id": "53b9727c40e13011",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/3.jpeg"
+                "file": "Aerodinâmica/Karamcheti.pdf"
               }
             }
           },
           {
-            "id": "649395eab5f5b62e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/5.jpeg"
-              }
-            }
-          },
-          {
-            "id": "334c03226d9e4ab0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/6.jpeg"
-              }
-            }
-          },
-          {
-            "id": "7b7a0aab7f3105f5",
+            "id": "761cba9689bb60a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas Aeroespaciais/Primeira Prova.md",
+                "file": "Aerodinâmica/P1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "15095f0164cbc157",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea63dd2fa84fb8c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Estruturas Aeroespaciais/Megson_Estruturas.pdf"
-              }
-            }
-          },
-          {
-            "id": "e8b71b34f89a97d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Estruturas Aeroespaciais/Niu_Estruturas.pdf"
-              }
-            }
-          },
-          {
-            "id": "a49b93271df80b50",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Estruturas Aeroespaciais/Megson_Solutions.pdf"
-              }
-            }
-          },
-          {
-            "id": "52594ce9d85cc57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estruturas Aeroespaciais/Primeira Prova.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/6.jpeg",
+                "file": "Aerodinâmica/John D. Anderson, Jr., Christopher P. Cadou - Fundamentals of Aerodynamics-McGraw Hill (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/6.jpeg",
+                "file": "Aerodinâmica/John D. Anderson, Jr., Christopher P. Cadou - Fundamentals of Aerodynamics-McGraw Hill (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas Aeroespaciais/pantiga/6.jpeg"
+                "file": "Aerodinâmica/John D. Anderson, Jr., Christopher P. Cadou - Fundamentals of Aerodynamics-McGraw Hill (2023).pdf"
               }
             }
           }
@@ -248,17 +177,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "334c03226d9e4ab0",
+  "active": "223849eb81098c06",
   "lastOpenFiles": [
+    "Aerodinâmica/P1.md",
+    "Aerodinâmica/John D. Anderson, Jr., Christopher P. Cadou - Fundamentals of Aerodynamics-McGraw Hill (2023).pdf",
+    "Aerodinâmica/Karamcheti.pdf",
+    "Aerodinâmica/Houghton.pdf",
+    "Estruturas Aeroespaciais/Primeira Prova.md",
+    "Estruturas Aeroespaciais/Megson_Solutions.pdf",
+    "Estruturas Aeroespaciais/Niu_Estruturas.pdf",
+    "Estruturas Aeroespaciais/Megson_Estruturas.pdf",
+    "Estruturas Aeroespaciais/pantiga/6.jpeg",
     "Estruturas Aeroespaciais/pantiga/5.jpeg",
     "Estruturas Aeroespaciais/pantiga/3.jpeg",
     "Estruturas Aeroespaciais/pantiga/1.jpeg",
     "Estruturas Aeroespaciais/pantiga/2.jpeg",
-    "Estruturas Aeroespaciais/Primeira Prova.md",
-    "Estruturas Aeroespaciais/Niu_Estruturas.pdf",
-    "Estruturas Aeroespaciais/pantiga/6.jpeg",
-    "Estruturas Aeroespaciais/Megson_Estruturas.pdf",
-    "Estruturas Aeroespaciais/Megson_Solutions.pdf",
     "Estruturas Aeroespaciais/pantiga",
     "Estruturas Aeroespaciais/Lista de exercícios 02.pdf",
     "Estruturas Aeroespaciais/Pics",
@@ -268,9 +201,6 @@
     "Estruturas Aeroespaciais/Pics/Pasted image 20240929171150.png",
     "Estruturas Aeroespaciais/Pics/Pasted image 20240929171005.png",
     "Estruturas Aeroespaciais/Pics/Pasted image 20240929170944.png",
-    "Elementos de Máquinas/problemas_engrenagens.pdf",
-    "Elementos de Máquinas/Apostila.pdf",
-    "Elementos de Máquinas/Norton.pdf",
     "Elementos de Máquinas/Engrenagens.md",
     "Fundamentos da Combustão/2 - Combustão e Termoquímica.md"
   ]
